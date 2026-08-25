@@ -1,1 +1,1 @@
-# Hipertens-o-e-Diabetes--Manual-do-Bem-Estar
+# Hipertensão-e-Diabetes-Manual-do-Bem-Estar
