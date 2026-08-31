@@ -46,7 +46,16 @@
                 <h2>Meu primeiro Post</h2>
                 <p class="artigo-autor">Por:Rafael Bernardelli</p>
                 <p>Boas-Vindas ao meu novo blog! Aqui vou passar informações sobre cuidados da sua saúde.</p>
+                <button>👍 <span>0</span></button>
             </div>
         </main>
     </body>
+    <script>
+        const botao = document.querySelector("button");
+        botao.addEventListener(click, botaoClicado);
+
+        function botaoClicado(){
+            console.log("fui clicado");
+        }
+    </script>
 </html>
